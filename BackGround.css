@@ -1,8 +1,8 @@
 .site-layout-content {
   min-height: 600px;
-  padding: 24px;
-  margin: 24px;
-  background: #fff;
+  padding: 30px;
+  margin: 0px;
+  background: rgb(240, 240, 240);
 }
 #components-layout-demo-top .logo {
   float: left;
